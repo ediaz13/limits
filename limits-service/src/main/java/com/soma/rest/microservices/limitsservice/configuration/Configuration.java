@@ -1,6 +1,5 @@
 package com.soma.rest.microservices.limitsservice.configuration;
 
-
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
